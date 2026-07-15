@@ -69,6 +69,40 @@ plots to highlight patterns across groups.
 
 ---
 
+## Featured Projects
+
+### Business Intelligence & Data Mining Solution for a Regional Retail SME
+Designed a Business Intelligence solution for a regional retail SME by integrating
+sales, customer, and inventory data into a centralized data warehouse. Built
+interactive dashboards, performed customer segmentation and sales forecasting,
+and developed data-driven insights to support strategic decision-making and
+inventory optimization.
+
+`Power BI` `SQL` `Tableau` `Data Warehouse` `ETL` `Business Intelligence`
+
+---
+
+### Avian Disease Severity Prediction Using Machine Learning
+Developed a machine learning classification model to predict avian disease
+severity using epidemiological and environmental datasets. Performed data
+cleaning, feature engineering, exploratory data analysis (EDA), class balancing
+with SMOTE, and hyperparameter tuning. Compared Random Forest and Gradient
+Boosting models, achieving high predictive performance for biosecurity risk
+assessment.
+
+`Python` `Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Random Forest` `Gradient Boosting` `SMOTE`
+
+---
+
+### Charles Bank Web Application Penetration Testing
+Conducted a comprehensive penetration test on a banking web application using
+Burp Suite and OWASP methodologies. Identified critical vulnerabilities including
+SQL Injection, Cross-Site Scripting (XSS), Broken Access Control, IDOR, CSRF,
+Business Logic flaws, and Path Traversal. Documented findings with risk analysis,
+proof-of-concept evidence, and practical remediation recommendations.
+
+`Burp Suite` `OWASP Top 10` `SQL Injection` `XSS` `CSRF` `IDOR` `Web Security` `Penetration Testing`
+
 
 ## IT Thesis
 
@@ -84,6 +118,18 @@ conservation insights through phylogeographic trend analysis.
 
 `Python` `CNN` `CRNN` `Machine Learning` `Bioacoustics` `GIS`
 
+---
+
+## Internship
+
+**Data Entry Intern** - Purposetech.ai (Feb 2026 - May 2026)
+
+- Researched grant organisations and programs, organised leadership and personnel data in Excel, and updated, verified, and finalised the Top 100 Funder Database.
+- Identified and analysed impact investors (angel, VC, and impact investors) supporting social and environmental startups, and created an outreach contact list of nonprofits, funders, and purpose-driven technology organisations.
+- Researched foundation leaders discussing AI in grantmaking on LinkedIn and other platforms, and systematically collected, filtered, and organised relevant information from credible sources.
+
+
+###
 ---
 
 ## Education
