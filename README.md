@@ -69,8 +69,6 @@ plots to highlight patterns across groups.
 
 ---
 
-## Featured Projects
-
 ### Business Intelligence & Data Mining Solution for a Regional Retail SME
 Designed a Business Intelligence solution for a regional retail SME by integrating
 sales, customer, and inventory data into a centralized data warehouse. Built
